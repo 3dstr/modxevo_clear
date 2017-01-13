@@ -1,6 +1,8 @@
 # ОЧИСТКА MODX EVO от вирусов
 
-Просто положите скрипт в домашню папку. 
+Просто скачайте скрипт в домашню папку
+`git clone https://github.com/3dstr/modxevo_clear.git`
+
 Потом переходите в корень сайта, наприме
 
 `сd /var/www/vostok/data/www/grand.ru/`
