@@ -2,7 +2,7 @@
 
 Просто скачайте скрипт в домашню папку
 
-`git clone https://github.com/3dstr/modxevo_clear.git`
+`git clone https://github.com/3dstr/modxevo_clear.git ~/clear/`
 
 Потом переходите в корень сайта, наприме
 
@@ -10,7 +10,7 @@
 
 затем запускайте скрипт
 
-`~/clearvirus.sh`
+`~/clear/clearvirus.sh`
 
 ## Что делает
 
