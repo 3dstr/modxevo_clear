@@ -4,6 +4,9 @@
 
 `git clone https://github.com/3dstr/modxevo_clear.git ~/clear/`
 
+даем права на запуск
+`chmod +x ~/clear/clearvirus.sh`
+
 Потом переходите в корень сайта, наприме
 
 `сd /var/www/vostok/data/www/grand.ru/`
