@@ -15,9 +15,9 @@
 
 `~/clear/clearvirus.sh`
 
-можете сперва просканировать айболитом
+можете сперва просканировать айболитом (свежий тут https://www.revisium.com/ai/)
 
-`php ~/clear/aibolit.php`
+`php ~/clear/aibolit.php` 
 
 ## Что делает
 
